@@ -34,7 +34,7 @@ span.cm-operator	{ color: #dddddd; }
 }
 
 .CodeMirror-scroll {
-    background: #212124;
+    background: #000000;
 	color: #c1c6cc;
 }
 
@@ -52,7 +52,7 @@ span.cm-operator	{ color: #dddddd; }
 }
 
 .CodeMirror-linenumber {
-	color: #5d5d5d;
+	color: #ffffff;
 }
 
 .CodeMirror-selected {
